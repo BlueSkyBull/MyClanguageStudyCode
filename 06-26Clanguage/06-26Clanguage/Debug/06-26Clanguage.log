@@ -1,0 +1,4 @@
+﻿  main3.cpp
+C:\Users\pak51\source\repos\06-26Clanguage\06-26Clanguage\main3.cpp(55,6): warning C4101: 'arr4' :참조되지 않은 지역 변수입니다.
+C:\Users\pak51\source\repos\06-26Clanguage\06-26Clanguage\main3.cpp(54,6): warning C4101: 'arr3' :참조되지 않은 지역 변수입니다.
+  06-26Clanguage.vcxproj -> C:\Users\pak51\source\repos\06-26Clanguage\Debug\06-26Clanguage.exe
